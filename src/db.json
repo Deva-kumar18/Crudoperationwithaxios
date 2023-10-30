@@ -1,0 +1,30 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "name":"Deva",
+            "email":"dev@gmail.com"
+
+        },  {
+            "id": 2,
+            "name":"Deeva",
+            "email":"deev@gmail.com"
+
+        },  {
+            "id": 3,
+            "name":"Devaa",
+            "email":"deva@gmail.com"
+
+        },  {
+            "id": 4,
+            "name":"Devva",
+            "email":"devv@gmail.com"
+
+        },  {
+            "id": 5,
+            "name":"Devak",
+            "email":"devk@gmail.com"
+
+        }
+    ]
+}
